@@ -1,1 +1,1 @@
-# odin-journey
+# My Odin Journey
