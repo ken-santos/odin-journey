@@ -31,7 +31,3 @@
 
     * Explain the problem that this commit is solving. Focus on why you
     are making this change as opposed to how (the code explains that).
-
-
-# Terminologies s an fmm directory where I practice 
-    concepts that I've learned, it helps me remember concepts much longer and also be creative.
